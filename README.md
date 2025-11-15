@@ -143,7 +143,6 @@ Les classes suivantes jouent le rôle de “contrôleurs” :
 1. Cloner ou télécharger le projet :
 
    ```bash
-   # Exemple si le projet est sur Git
    git clone <URL_DU_DEPOT>
    cd AppJavaGestionScolarite-master
    ```
